@@ -5,6 +5,7 @@
     <link href="css/reset.css" rel="stylesheet">
     <link href="css/synch.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript">    
       if (window.parent.frames.length > 0) {
         window.stop();
@@ -36,10 +37,10 @@
 							<a onclick=" $('a').click(function(){ $('#channelID').html('&nbsp;on&nbsp;synchtube 2&nbsp;/&nbsp;');}); document.getElementById ('stream').src='synchtuberu.html';">extra</a> / 
 							<a onclick="$('a').click(function(){ $('#channelID').html('&nbsp;on&nbsp;ekventor&nbsp;/&nbsp;');}); document.getElementById ('stream').src='ekventor.html';">ekventor</a> / 
 							<a onclick="$('a').click(function(){ $('#channelID').html('&nbsp;on&nbsp;synch-rock&nbsp;/&nbsp;');}); document.getElementById ('stream').src='synch-rock.html';">synch-rock</a> / 
-							<a onclick="$('a').click(function(){ $('#channelID').html('&nbsp;on&nbsp;moron_paratrooper&nbsp;/&nbsp;');}); document.getElementById ('stream').src='moron_paratrooper.html';">moron_paratrooper</a></p>
+							<a onclick="$('a').click(function(){ $('#channelID').html('&nbsp;on&nbsp;moron_paratrooper&nbsp;/&nbsp;');}); document.getElementById ('stream').src='moron_paratrooper.html';">moron_paratrooper</a> / 
+							<a onclick="$('a').click(function(){ $('#channelID').html('&nbsp;on&nbsp;whystingwhy&nbsp;/&nbsp;');}); document.getElementById ('stream').src='whystingwhy.html';">whystingwhy</a></p>
                     </footer>
             </div>
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     </body>
     </html>
 
